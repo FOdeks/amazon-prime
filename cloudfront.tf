@@ -1,1 +1,1 @@
-# cloudfront to cahe the movies content
+# cloudfront to cache the movies content
